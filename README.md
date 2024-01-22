@@ -18,6 +18,13 @@ Welcome to COZY KNITS -Where Warmth Meets Fashion-.
 Our project aims to establish an online platform dedicated to showcasing and selling unique, handmade knitting products.
 We believe in the charm of handcrafted items and want to bring warmth and style to our customers' lives through our carefully crafted knitting creations.
 
+## Screenshots of our WebSite
+![1](https://github.com/SaraYamil/MVP-s/blob/master/images/1.jpg)
+![2](https://github.com/SaraYamil/MVP-s/blob/master/images/2.jpg)
+![3](https://github.com/SaraYamil/MVP-s/blob/master/images/3.jpg)
+![4](https://github.com/SaraYamil/MVP-s/blob/master/images/4.jpg)
+![5](https://github.com/SaraYamil/MVP-s/blob/master/images/5.jpg)
+
 ## Project's GitHub
 
 https://github.com/SaraYamil/MVP-s
