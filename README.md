@@ -1,24 +1,31 @@
-#Portfolio project
+##Portfolio project
 
-#COZY KNITS : “Where Warmth Meets Fashion”
+##            COZY KNITS : “Where Warmth Meets Fashion”
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Configuration](#configuration)
-5. [Development](#development)
-6. [Technologies Used](#technologies-used)
-7. [Contact Information](#contact-information)
+2. [Project's GitHub](#Project's GitHub)
+3. [Authors GitHub](#Authors GitHub)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Configuration](#configuration)
+7. [Development](#development)
+8. [Technologies Used](#technologies-used)
+9. [Contact Information](#contact-information)
 
 ## Introduction
+
 Welcome to COZY KNITS -Where Warmth Meets Fashion-.
 Our project aims to establish an online platform dedicated to showcasing and selling unique, handmade knitting products.
 We believe in the charm of handcrafted items and want to bring warmth and style to our customers' lives through our carefully crafted knitting creations.
-**Project's GitHub:**
+
+## Project's GitHub
+
 https://github.com/SaraYamil/MVP-s
-** Author(s) GitHub:**
-https://github.com/SaraYamil
-https://github.com/26fzl
+
+## Authors GitHub
+
+- https://github.com/SaraYamil
+- https://github.com/26fzl
 
 ## Installation
 
