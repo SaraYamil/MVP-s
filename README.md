@@ -1,10 +1,10 @@
-##Portfolio project
+## Portfolio project
 
 ##            COZY KNITS : “Where Warmth Meets Fashion”
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Project's GitHub](#Project's GitHub)
-3. [Authors GitHub](#Authors GitHub)
+2. [Project's GitHub](#project's-github)
+3. [Authors GitHub](#authors-github)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Configuration](#configuration)
@@ -64,5 +64,5 @@ If you're interested in contributing to the development of this project, follow 
 ## Contact Information
 
 For inquiries or support, please contact us at :
-fatimazahralamrani26@gmail.com
-sarayamil21@gmail.com
+- fatimazahralamrani26@gmail.com
+- sarayamil21@gmail.com
